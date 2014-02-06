@@ -1,4 +1,4 @@
 SUPA-TRASH
 ==========
 
-test app
+test app!
